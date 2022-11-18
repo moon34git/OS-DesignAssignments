@@ -5,8 +5,8 @@ Operating System Design course is for students in the year 3 module at the ITM d
 ## Contents
 
 This repository consists of assignments during the OS-D course,  
-Creating a Shell interface,  
-PID Manager,  
-Dining Philosopher's problem,  
-VM Manager. 
+1. Creating a Shell interface,  
+2. PID Manager,  
+3. Dining Philosopher's problem,  
+4. VM Manager. 
 
